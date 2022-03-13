@@ -6,6 +6,8 @@ I'm currently working in computer vision with high resolution multispectral sate
 
 I have an MS in Computer Science from Georgia Tech, where I studied machine learning. I'm currently working on an MS in Statistics at NC State.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmcmahon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 These are my favorite tools, things I use every day:
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -50,3 +52,4 @@ These tools I use occassionally:
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
