@@ -6,7 +6,7 @@ I'm currently working in computer vision with high resolution multispectral sate
 
 I have an MS in Computer Science from Georgia Tech, where I studied machine learning. I'm currently working on an MS in Statistics at NC State.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmcmahon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmcmahon&layout=compact&hide=css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 These are my favorite tools, things I use every day:
 
