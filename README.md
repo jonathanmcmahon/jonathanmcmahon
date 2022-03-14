@@ -1,8 +1,6 @@
-### Hi 👋
+I'm a data scientist focused on deep learning research and development. I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data. 🌏 🛰️
 
-I'm a data scientist focused on deep learning research and development. 🌎 I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data.
-
-I'm currently working in computer vision with high resolution multispectral satellite imagery. 🛰️ I have also worked as a software engineer and machine learning engineer.
+I'm currently working in computer vision with high resolution multispectral satellite imagery. I have also worked as a software engineer and machine learning engineer.
 
 I have an MS in Computer Science from Georgia Tech, where I studied machine learning. I'm currently working on an MS in Statistics at NC State.
 
