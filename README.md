@@ -1,6 +1,6 @@
 I'm a data scientist focused on deep learning R&D. In the past I have also been a software engineer and machine learning engineer.
 
-I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data. 🌏 🛰️ I'm currently working with radio frequency (RF) data 📻 📡.
+I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data. 🌏 🛰️ I'm currently working with radio frequency (RF) data. 📻 📡
 
 I have an MS in Computer Science from Georgia Tech and an MS in Statistics from NC State.
 
