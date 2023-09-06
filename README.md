@@ -1,8 +1,8 @@
-I'm a data scientist focused on deep learning research and development. I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data. 🌏 🛰️
+I'm a data scientist focused on deep learning R&D. In the past I have also been a software engineer and machine learning engineer.
 
-I'm currently working in computer vision with high resolution multispectral satellite imagery. I have also worked as a software engineer and machine learning engineer.
+I enjoy designing and building machine learning systems to answer questions about the world using remote sensing data. 🌏 🛰️ I'm currently working with radio frequency (RF) data 📻 📡.
 
-I have an MS in Computer Science from Georgia Tech, where I studied machine learning. I'm currently working on an MS in Statistics at NC State.
+I have an MS in Computer Science from Georgia Tech and an MS in Statistics from NC State.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmcmahon&layout=compact&hide=css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
